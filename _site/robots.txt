@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://shikharmn.github.io/sitemap.xml
